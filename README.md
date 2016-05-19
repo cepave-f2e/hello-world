@@ -16,6 +16,6 @@ Cepave-F2E-Exam/
 - Test time: `1 hour`
 
 ### Grade
-- The code quality
-- The test coverages
-- Used time
+- :white_check_mark: The code quality
+- :100: The test coverages
+- :alarm_clock: Used time
